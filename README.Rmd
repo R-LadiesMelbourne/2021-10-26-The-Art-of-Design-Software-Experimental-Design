@@ -1,0 +1,9 @@
+---
+title: "The Art of Design: Software & Experimental Design"
+date: "26/10/2021"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
