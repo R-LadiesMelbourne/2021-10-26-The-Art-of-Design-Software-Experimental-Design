@@ -7,3 +7,8 @@ output: github_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+
+Find slides of the event: https://github.com/emitanaka/slides-RLadiesMelb2021
+
+YouTube Video: https://www.youtube.com/watch?v=8caV0KvmNNw&t=645s&ab_channel=R-LadiesMelbourne 
